@@ -75,4 +75,3 @@ console.log(mul);
 
 const title = document.getElementById("title");
 title.innerHTML="hi FOrm js";
-title.style.
